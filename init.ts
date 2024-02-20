@@ -1,1 +1,1 @@
-const b = "b";
+const b = "わいわい";
